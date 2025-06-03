@@ -12,7 +12,7 @@ module.exports = function(app) {
                 },
                 {
                     headers: {
-                        'Authorization': `Bearer YOUR_OPENAI_API_KEY`,
+                        'Authorization': `Bearer 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`,
                         'Content-Type': 'application/json'
                     }
                 }
