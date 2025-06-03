@@ -24,12 +24,13 @@
           }
         },
         {
-          "name": "ChatGpt",
-          "desc": "just chat me",
-          "path": "/ai/chatgpt?text=",
+         "name": "ChatGPT AI",
+         "desc": "Talk with ChatGPT (OpenAI)",
+         "path": "/ai/chatgpt?text=",
           "status": "ready",
           "params": {
-            "text": "Text for gpt To respond"
+          "text": "Text prompt for ChatGPT to respond to"
+  
           }
         },
        {
