@@ -23,6 +23,15 @@
             "text": "Text for luminai to respond to"
           }
         },
+        {
+          "name": "ChatGpt",
+          "desc": "just chat me",
+          "path": "/ai/chatgpt?text=",
+          "status": "ready",
+          "params": {
+            "text": "Text for gpt To respond"
+          }
+        },
        {
           "name": "HydroMind",
           "desc": "See the list of supported AI models here: https://mind.hydrooo.web.id",
